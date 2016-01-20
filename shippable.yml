@@ -39,8 +39,8 @@ notifications:
   email:
    - revathi@shippable.com
    
-git:
- submodules: false
+#git:
+ #submodules: false
 
 
 
