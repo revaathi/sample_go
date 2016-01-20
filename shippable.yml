@@ -37,8 +37,10 @@ script:
 	
 notifications:
   email:
-
-  - revathi@shippable.com
+   - revathi@shippable.com
+   
+git:
+ submodules: false
 
 
 
