@@ -1,0 +1,3 @@
+[submodule "sample_php"]
+	path = sample_php
+	url = https://github.com/revaathi/sample_php.git
